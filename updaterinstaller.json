@@ -1,8 +1,8 @@
 {
-  "newVersion": "1.2",
-  "apkUrl": "https://github.com/CSAbhiOnline/Teenhub_updates/releases/download/1.2/teenhub_v1.2.apk",
+  "newVersion": "1.3",
+  "apkUrl": "https://github.com/CSAbhiOnline/Teenhub_updates/releases/download/1.3/teenhub_v1.3.apk",
   "versionNotes": [
     "- Bug fixes",
-    "- Bug fixes"
+    "- Added Privacy policy and Terms"
   ]
 }
